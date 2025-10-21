@@ -40,25 +40,33 @@ It serves as my online resume and helps others learn more about me and my work.
 
 
 
-<img width="1365" height="767" alt="Screenshot 2025-10-21 235133" src="https://github.com/user-attachments/assets/51d57634-ef0f-418d-a24a-e99acc3e0430" />
-
-
-
-<img width="1365" height="767" alt="Screenshot 2025-10-21 235153" src="https://github.com/user-attachments/assets/ca30f00b-2e71-40b9-ae2d-f086fb907554" />
-
-
-
-<img width="1365" height="767" alt="Screenshot 2025-10-21 235216" src="https://github.com/user-attachments/assets/a9810501-3b9d-4e2e-a78d-17cd28d457ce" />
+<img width="1365" height="767" alt="Screenshot 2025-10-21 235133" src="https://github.com/user-attachments/assets/94b1cb36-9025-427d-b212-71702625d2a9" />
 
 
 
 
-<img width="1365" height="767" alt="Screenshot 2025-10-22 000534" src="https://github.com/user-attachments/assets/9adfc6d3-ac62-4646-ac85-a6f7d21c9aaf" />
+
+<img width="1365" height="767" alt="Screenshot 2025-10-21 235153" src="https://github.com/user-attachments/assets/9b8c57fd-7927-49e3-b3c2-42f12088e09c" />
 
 
-<img width="1360" height="766" alt="Screenshot 2025-10-22 000635" src="https://github.com/user-attachments/assets/ee0f113c-b490-492d-a91e-8c74b15cbf0d" />
 
 
+
+<img width="1365" height="767" alt="Screenshot 2025-10-22 001013" src="https://github.com/user-attachments/assets/de940eaa-37bf-4959-ad3c-7db538c0fa11" />
+
+
+
+
+
+
+
+<img width="1365" height="767" alt="Screenshot 2025-10-22 000534" src="https://github.com/user-attachments/assets/89ed6308-ee2c-4301-9ca3-c5e3acaf9ae3" />
+
+
+
+
+
+<img width="1360" height="766" alt="Screenshot 2025-10-22 000635" src="https://github.com/user-attachments/assets/6c1f05b6-06e0-45c6-a660-b18cfa93127a" />
 
 
 
