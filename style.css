@@ -136,8 +136,8 @@ width: 100%;
 
 
 
-.header-text h1 {
-    animation: type 3s steps(31) infinite;
+ .header-text h1 {
+    animation: type 2s steps(31) infinite forwards;
     overflow: hidden;
     white-space: nowrap;
     
@@ -153,7 +153,7 @@ width: 100%;
     }
     
 }
-
+ 
 
 
 
