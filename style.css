@@ -75,7 +75,115 @@ width: 100%;
 .header-text h1 {
     font-size: 60px;
     margin-top: 20px;
+
 }
+
+
+
+
+/* create by me */
+
+
+
+/* 
+.header-text {
+    position: relative;
+    -webkit-box-reflect: below -28px linear-gradient(transparent,#0002);
+}
+
+.header-text::before{
+    content: " ";
+    position: absolute;
+    top: 0;
+    width: 2px;
+    height: 100%;
+    background: #03e9f4;
+    animation: blinkCursor 0.8s steps(3) infinite;
+
+
+}
+@keyframes blinkCursor {
+    0%,75%{
+        opacity: 1;
+    }
+    76%,100%{
+        opacity: 0;
+    }
+    
+}
+.header-text h1 {
+    position: relative;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    animation: typing 8s steps(31) infinite;
+    overflow: hidden;
+}
+ @keyframes typing {
+    0%,90% ,100%{
+        width: 0;
+    }
+    30%,60% {
+        width: 900px;
+    }
+
+ }
+ */
+
+
+
+
+
+
+
+
+.header-text h1 {
+    animation: type 3s steps(31) infinite;
+    overflow: hidden;
+    white-space: nowrap;
+    
+    
+}
+@keyframes type {
+
+    0% {
+        width: 0ch;
+    }
+    100% {
+        width: 31ch;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .header-text h1 span {
 color: #ff0004;
