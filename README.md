@@ -38,17 +38,18 @@ It serves as my online resume and helps others learn more about me and my work.
 
 
 
-
-
-
-<img width="1365" height="766" alt="Screenshot 2025-10-22 001331" src="https://github.com/user-attachments/assets/28be7e96-dc13-4c3c-906b-efc3d87192ad" />
-
+<img width="1365" height="767" alt="Screenshot 2026-06-06 140459" src="https://github.com/user-attachments/assets/78917efb-c6f0-4ede-a757-a8a2b40b7caf" />
 
 
 
 
-<img width="1365" height="767" alt="Screenshot 2025-10-21 235153" src="https://github.com/user-attachments/assets/9b8c57fd-7927-49e3-b3c2-42f12088e09c" />
 
+
+
+
+
+
+<img width="1365" height="767" alt="Screenshot 2026-06-06 140524" src="https://github.com/user-attachments/assets/799d3afe-8ab5-4d11-a5f4-351bf41e5503" />
 
 
 
