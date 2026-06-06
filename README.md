@@ -38,7 +38,11 @@ It serves as my online resume and helps others learn more about me and my work.
 
 
 
-<img width="1365" height="767" alt="Screenshot 2026-06-06 140711" src="https://github.com/user-attachments/assets/92f5f088-c2bc-43bc-b3da-c230d69ef54f" />
+
+
+
+
+
 
 
 
@@ -51,6 +55,7 @@ It serves as my online resume and helps others learn more about me and my work.
 
 
 <img width="1365" height="767" alt="Screenshot 2026-06-06 140524" src="https://github.com/user-attachments/assets/799d3afe-8ab5-4d11-a5f4-351bf41e5503" />
+<img width="1365" height="767" alt="Screenshot 2026-06-06 140834" src="https://github.com/user-attachments/assets/139c9a14-bf09-400e-8ee6-ee84363baaed" />
 
 
 
