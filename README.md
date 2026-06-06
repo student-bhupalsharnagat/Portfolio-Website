@@ -38,7 +38,8 @@ It serves as my online resume and helps others learn more about me and my work.
 
 
 
-<img width="1365" height="767" alt="Screenshot 2026-06-06 140459" src="https://github.com/user-attachments/assets/78917efb-c6f0-4ede-a757-a8a2b40b7caf" />
+<img width="1365" height="767" alt="Screenshot 2026-06-06 140711" src="https://github.com/user-attachments/assets/92f5f088-c2bc-43bc-b3da-c230d69ef54f" />
+
 
 
 
